@@ -1,4 +1,4 @@
-# Yapay Zeka ile DDoS-Saldırısı Tespiti
+# Yapay Zeka ile DDoS Saldırısı Tespiti
 
 Bu proje, Yapay Zeka kullanarak siber saldırı tespiti işlemlerini kolaylaştırmak,  saldırıları  kontrol etmek ve saldırı engelleme sürecini otomatikleştirmek amacıyla geliştirilmiş bir projedir.
 
